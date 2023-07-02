@@ -10,9 +10,12 @@ const Hero = () => {
           <p>
             Hi there! Welcome to my project website. Check out some cool
             projects I built with React and many interesting APIs! <br />
-            See the source code here:{" "}
-            <a style={{ textDecoration: "none" }}>
-              https://github.com/Meng-xuanny
+            See the source code here:
+            <a
+              href="https://github.com/Meng-xuanny?tab=repositories"
+              className="hero-link"
+            >
+              My Github Repositories
             </a>
           </p>
         </div>

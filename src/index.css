@@ -308,6 +308,21 @@ body {
   max-width: 35em;
   color: var(--grey-600);
 }
+
+.hero-link:link,
+.hero-link:visited {
+  text-decoration: none;
+  margin-left: 0.5rem;
+  transition: var(--transition);
+  color: var(--primary-500);
+  font-weight: 700;
+}
+
+.hero-link:hover,
+.hero-link:active {
+  font-weight: 400;
+}
+
 @media (min-width: 992px) {
   .hero-center {
     display: grid;
