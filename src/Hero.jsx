@@ -8,10 +8,9 @@ const Hero = () => {
         <div className="hero-title">
           <h1>Contentful CMS</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut beatae
-            quisquam maiores voluptatibus recusandae illum eos quam fugit
-            excepturi vero ipsa, ipsum, praesentium delectus nisi voluptatum?
-            Exercitationem voluptate eaque amet.
+            Hi there! Welcome to my project website! Check out some cool
+            projects I built with React and many interesting APIs! See the
+            source code here:https://github.com/Meng-xuanny
           </p>
         </div>
 
