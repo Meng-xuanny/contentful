@@ -8,9 +8,12 @@ const Hero = () => {
         <div className="hero-title">
           <h1>Contentful CMS</h1>
           <p>
-            Hi there! Welcome to my project website! Check out some cool
-            projects I built with React and many interesting APIs! See the
-            source code here:https://github.com/Meng-xuanny
+            Hi there! Welcome to my project website. Check out some cool
+            projects I built with React and many interesting APIs! <br />
+            See the source code here:{" "}
+            <a style={{ textDecoration: "none" }}>
+              https://github.com/Meng-xuanny
+            </a>
           </p>
         </div>
 
